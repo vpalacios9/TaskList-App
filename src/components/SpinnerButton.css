@@ -1,0 +1,9 @@
+.relative {
+    position: relative;
+  }
+  
+  .spinner {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+  }
